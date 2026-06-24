@@ -21,9 +21,7 @@ I build data solutions that drive business decisions — from SQL queries to int
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-r-reddy/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=github)](https://vrmutyala.github.io/VR.github.io/)
 
-4. Add Descriptions to Each Repo
-Go into each repo → Settings → and add a short description + topic tags. Examples:
-RepoSuggested DescriptionTopicsGlobal-Retial-SalesSales performance analysis across global retail markets using SQL and Power BIsql power-bi retail data-analyticsSQL_HealthCare
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=VRMUTYALA&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=VRMUTYALA&theme=transparent&hide_border=false)<br/>
