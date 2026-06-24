@@ -1,6 +1,6 @@
 # Hi, I'm Viswanadha Reddy Mutyala 👋
 
-📊 Data Analytics | 🏥 Healthcare & Retail | 🇿🇦 Johannesburg, South Africa
+📊 Data Analytics & Power BI Developer| 🇿🇦 Johannesburg, South Africa
 
 Microsoft Certified Power BI Data Analyst (PL-300) and SAP BW/4HANA Certified professional with 5+ years in data analytics and 6 years of Power BI development. Backed by a 12-year IT foundation spanning MSBI, SQL, and data engineering across Retail, Finance, Banking, Logistics, SAP ERP, and Public Sector.
 
