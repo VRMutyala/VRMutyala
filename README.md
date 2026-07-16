@@ -29,4 +29,4 @@ Microsoft Certified Power BI Data Analyst (PL-300) and SAP BW/4HANA Certified pr
 ---
 [![](https://komarev.com/ghpvc/?username=VRMUTYALA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
